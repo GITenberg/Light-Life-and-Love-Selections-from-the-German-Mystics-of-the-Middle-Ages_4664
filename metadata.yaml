@@ -1,0 +1,29 @@
+_repo: Light-Life-and-Love-Selections-from-the-German-Mystics-of-the-Middle-Ages_4664
+creator:
+  author:
+    agent_name: Inge, William Ralph
+    aliases:
+    - Inge, W. R. (William Ralph)
+    - Inge, Dean (William Ralph)
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1534'
+    url: http://www.gutenberg.org/2009/agents/1534
+    wikipedia: http://en.wikipedia.org/wiki/William_Ralph_Inge
+description: ''
+gutenberg_bookshelf:
+- Christianity
+- Germany
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism -- Germany -- History -- Middle Ages, 600-1500 -- Sources'
+- !lcc 'BV'
+title: 'Light, Life, and Love: Selections from the German Mystics of the Middle Ages'
+url: http://www.gutenberg.org/ebooks/4664
